@@ -2,3 +2,46 @@
 /* Please indent properly */
 /* Please use only lower-case letters */
 /* Your webpage should be 100% responsive!!! */
+#main {
+    height: auto;
+    width: 20%;
+    background-color: blueviolet;
+    display: block;
+    justify-content: center;
+}
+
+.top {
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+h3 {
+    color: gainsboro;
+    display: flex;
+    justify-content: center;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    background-position-x: black;
+    color: white;
+}
+
+.i {
+    color: gainsboro
+}
+
+.icon {
+    color: gainsboro;
+}
+
+.dm {
+    color: gainsboro;
+}
+
+.circle {
+    color: gainsboro;
+}
