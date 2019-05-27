@@ -1,3 +1,4 @@
+
 #main {
     height: auto;
     width: 20%;
@@ -12,32 +13,48 @@
     justify-content: center;
 
 }
+.search > input{
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: black;
+    color:white;
+
+      }
 
 h3 {
     color: gainsboro;
     display: flex;
     justify-content: center;
 }
+ul{
+    list-style-type: none;
+}
 
-.search {
-    display: flex;
+
+.icon{
+    color:gainsboro;
+}
+
+main header div{
+    display:flex;
     justify-content: center;
-    background-position-x: black;
-    color: white;
+    
 }
+header{
+    display:flex;
 
-.i {
-    color: gainsboro
 }
-
-.icon {
-    color: gainsboro;
+.bar{
+    display: flex;
+    justify-content: top-right;
 }
-
-.dm {
-    color: gainsboro;
+body{
+    display: flex;
 }
-
-.circle {
-    color: gainsboro;
+.pics{
+    display:space-between;
 }
